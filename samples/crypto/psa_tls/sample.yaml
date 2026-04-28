@@ -31,6 +31,7 @@ tests:
       - nrf9161dk/nrf9161/ns
       - nrf9151dk/nrf9151
       - nrf9151dk/nrf9151/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf5340dk/nrf5340/cpuapp
       - nrf5340dk/nrf5340/cpuapp/ns
@@ -40,6 +41,7 @@ tests:
       - nrf9161dk/nrf9161/ns
       - nrf9151dk/nrf9151
       - nrf9151dk/nrf9151/ns
+      - qemu_cortex_m3
     tags:
       - ci_build
       - cc3xx_oberon
@@ -58,6 +60,7 @@ tests:
       - nrf9161dk/nrf9161/ns
       - nrf9151dk/nrf9151
       - nrf9151dk/nrf9151/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf5340dk/nrf5340/cpuapp
       - nrf5340dk/nrf5340/cpuapp/ns
@@ -86,6 +89,7 @@ tests:
       - nrf9161dk/nrf9161/ns
       - nrf9151dk/nrf9151
       - nrf9151dk/nrf9151/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf5340dk/nrf5340/cpuapp
       - nrf5340dk/nrf5340/cpuapp/ns
@@ -113,6 +117,7 @@ tests:
       - nrf9161dk/nrf9161/ns
       - nrf9151dk/nrf9151
       - nrf9151dk/nrf9151/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf5340dk/nrf5340/cpuapp
       - nrf5340dk/nrf5340/cpuapp/ns
@@ -141,6 +146,7 @@ tests:
       - nrf9161dk/nrf9161/ns
       - nrf9151dk/nrf9151
       - nrf9151dk/nrf9151/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf5340dk/nrf5340/cpuapp
       - nrf5340dk/nrf5340/cpuapp/ns
@@ -168,6 +174,7 @@ tests:
       - nrf9161dk/nrf9161/ns
       - nrf9151dk/nrf9151
       - nrf9151dk/nrf9151/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf5340dk/nrf5340/cpuapp
       - nrf5340dk/nrf5340/cpuapp/ns
@@ -204,6 +211,7 @@ tests:
       - nrf54h20dk/nrf54h20/cpurad
       - nrf7120dk/nrf7120/cpuapp
       - nrf7120dk/nrf7120/cpuapp/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54l15dk/nrf54l15/cpuapp
       - nrf54l15dk/nrf54l15/cpuapp/ns
@@ -243,6 +251,7 @@ tests:
       - nrf54h20dk/nrf54h20/cpurad
       - nrf7120dk/nrf7120/cpuapp
       - nrf7120dk/nrf7120/cpuapp/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54l15dk/nrf54l15/cpuapp
       - nrf54l15dk/nrf54l15/cpuapp/ns
@@ -283,6 +292,7 @@ tests:
       - nrf54h20dk/nrf54h20/cpurad
       - nrf7120dk/nrf7120/cpuapp
       - nrf7120dk/nrf7120/cpuapp/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54l15dk/nrf54l15/cpuapp
       - nrf54l15dk/nrf54l15/cpuapp/ns
@@ -322,6 +332,7 @@ tests:
       - nrf54h20dk/nrf54h20/cpurad
       - nrf7120dk/nrf7120/cpuapp
       - nrf7120dk/nrf7120/cpuapp/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54l15dk/nrf54l15/cpuapp
       - nrf54l15dk/nrf54l15/cpuapp/ns
@@ -360,6 +371,7 @@ tests:
       - nrf54h20dk/nrf54h20/cpurad
       - nrf7120dk/nrf7120/cpuapp
       - nrf7120dk/nrf7120/cpuapp/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54l15dk/nrf54l15/cpuapp
       - nrf54l15dk/nrf54l15/cpuapp/ns
@@ -398,6 +410,7 @@ tests:
       - nrf54h20dk/nrf54h20/cpurad
       - nrf7120dk/nrf7120/cpuapp
       - nrf7120dk/nrf7120/cpuapp/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54l15dk/nrf54l15/cpuapp
       - nrf54l15dk/nrf54l15/cpuapp/ns
@@ -437,6 +450,7 @@ tests:
       - nrf54h20dk/nrf54h20/cpurad
       - nrf7120dk/nrf7120/cpuapp
       - nrf7120dk/nrf7120/cpuapp/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54l15dk/nrf54l15/cpuapp
       - nrf54l15dk/nrf54l15/cpuapp/ns
@@ -475,6 +489,7 @@ tests:
       - nrf54h20dk/nrf54h20/cpurad
       - nrf7120dk/nrf7120/cpuapp
       - nrf7120dk/nrf7120/cpuapp/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54l15dk/nrf54l15/cpuapp
       - nrf54l15dk/nrf54l15/cpuapp/ns
@@ -514,6 +529,7 @@ tests:
       - nrf54h20dk/nrf54h20/cpurad
       - nrf7120dk/nrf7120/cpuapp
       - nrf7120dk/nrf7120/cpuapp/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54l15dk/nrf54l15/cpuapp
       - nrf54l15dk/nrf54l15/cpuapp/ns
@@ -553,6 +569,7 @@ tests:
       - nrf54h20dk/nrf54h20/cpurad
       - nrf7120dk/nrf7120/cpuapp
       - nrf7120dk/nrf7120/cpuapp/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54l15dk/nrf54l15/cpuapp
       - nrf54l15dk/nrf54l15/cpuapp/ns
@@ -593,6 +610,7 @@ tests:
       - nrf54l15dk/nrf54l10/cpuapp/ns
       - nrf7120dk/nrf7120/cpuapp
       - nrf7120dk/nrf7120/cpuapp/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54l15dk/nrf54l15/cpuapp
       - nrf54l15dk/nrf54l15/cpuapp/ns
@@ -628,6 +646,7 @@ tests:
       - nrf54l15dk/nrf54l10/cpuapp/ns
       - nrf7120dk/nrf7120/cpuapp
       - nrf7120dk/nrf7120/cpuapp/ns
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54l15dk/nrf54l15/cpuapp
       - nrf54l15dk/nrf54l15/cpuapp/ns
@@ -658,6 +677,7 @@ tests:
       - nrf9160dk/nrf9160
       - nrf5340dk/nrf5340/cpuapp
       - nrf9151dk/nrf9151
+      - qemu_cortex_m3
     integration_platforms:
       - nrf52840dk/nrf52840
       - nrf5340dk/nrf5340/cpuapp
@@ -678,6 +698,7 @@ tests:
       - nrf9160dk/nrf9160
       - nrf5340dk/nrf5340/cpuapp
       - nrf9151dk/nrf9151
+      - qemu_cortex_m3
     integration_platforms:
       - nrf52840dk/nrf52840
       - nrf5340dk/nrf5340/cpuapp
@@ -698,6 +719,7 @@ tests:
       - nrf9160dk/nrf9160
       - nrf5340dk/nrf5340/cpuapp
       - nrf9151dk/nrf9151
+      - qemu_cortex_m3
     integration_platforms:
       - nrf52840dk/nrf52840
       - nrf5340dk/nrf5340/cpuapp
@@ -718,6 +740,7 @@ tests:
       - nrf9160dk/nrf9160
       - nrf5340dk/nrf5340/cpuapp
       - nrf9151dk/nrf9151
+      - qemu_cortex_m3
     integration_platforms:
       - nrf52840dk/nrf52840
       - nrf5340dk/nrf5340/cpuapp
@@ -741,6 +764,7 @@ tests:
       - nrf9160dk/nrf9160
       - nrf5340dk/nrf5340/cpuapp
       - nrf9151dk/nrf9151
+      - qemu_cortex_m3
     integration_platforms:
       - nrf52840dk/nrf52840
       - nrf5340dk/nrf5340/cpuapp
@@ -761,6 +785,7 @@ tests:
       - nrf9160dk/nrf9160
       - nrf5340dk/nrf5340/cpuapp
       - nrf9151dk/nrf9151
+      - qemu_cortex_m3
     integration_platforms:
       - nrf52840dk/nrf52840
       - nrf5340dk/nrf5340/cpuapp
@@ -781,6 +806,7 @@ tests:
       - nrf9160dk/nrf9160
       - nrf5340dk/nrf5340/cpuapp
       - nrf9151dk/nrf9151
+      - qemu_cortex_m3
     integration_platforms:
       - nrf52840dk/nrf52840
       - nrf5340dk/nrf5340/cpuapp
@@ -801,6 +827,7 @@ tests:
       - nrf9160dk/nrf9160
       - nrf5340dk/nrf5340/cpuapp
       - nrf9151dk/nrf9151
+      - qemu_cortex_m3
     integration_platforms:
       - nrf52840dk/nrf52840
       - nrf5340dk/nrf5340/cpuapp
@@ -821,6 +848,7 @@ tests:
       EXTRA_CONF_FILE="overlays/server.conf;overlays/ecdsa.conf;overlays/oberon-psa.conf"
     platform_allow:
       - nrf54ls05dk/nrf54ls05b/cpuapp
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54ls05dk/nrf54ls05b/cpuapp
     tags:
@@ -834,6 +862,7 @@ tests:
       EXTRA_CONF_FILE="overlays/server.conf;overlays/ecdsa.conf;overlays/oberon-psa.conf;overlays/dtls.conf"
     platform_allow:
       - nrf54ls05dk/nrf54ls05b/cpuapp
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54ls05dk/nrf54ls05b/cpuapp
     tags:
@@ -848,6 +877,7 @@ tests:
       EXTRA_CONF_FILE="overlays/client.conf;overlays/ecdsa.conf;overlays/oberon-psa.conf"
     platform_allow:
       - nrf54ls05dk/nrf54ls05b/cpuapp
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54ls05dk/nrf54ls05b/cpuapp
     tags:
@@ -861,6 +891,7 @@ tests:
       EXTRA_CONF_FILE="overlays/client.conf;overlays/ecdsa.conf;overlays/oberon-psa.conf;overlays/dtls.conf"
     platform_allow:
       - nrf54ls05dk/nrf54ls05b/cpuapp
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54ls05dk/nrf54ls05b/cpuapp
     tags:
@@ -875,6 +906,7 @@ tests:
       EXTRA_CONF_FILE="overlays/server.conf;overlays/ecdsa.conf;overlays/oberon-psa.conf;overlays/tls_1_3.conf"
     platform_allow:
       - nrf54ls05dk/nrf54ls05b/cpuapp
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54ls05dk/nrf54ls05b/cpuapp
     tags:
@@ -888,6 +920,7 @@ tests:
       EXTRA_CONF_FILE="overlays/client.conf;overlays/ecdsa.conf;overlays/oberon-psa.conf;overlays/tls_1_3.conf"
     platform_allow:
       - nrf54ls05dk/nrf54ls05b/cpuapp
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54ls05dk/nrf54ls05b/cpuapp
     tags:
@@ -901,6 +934,7 @@ tests:
       EXTRA_CONF_FILE="overlays/server.conf;overlays/ecdsa_secp384r1.conf;overlays/oberon-psa.conf"
     platform_allow:
       - nrf54ls05dk/nrf54ls05b/cpuapp
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54ls05dk/nrf54ls05b/cpuapp
     tags:
@@ -915,6 +949,7 @@ tests:
       EXTRA_CONF_FILE="overlays/server.conf;overlays/ecdsa_secp384r1.conf;overlays/oberon-psa.conf;overlays/dtls.conf"
     platform_allow:
       - nrf54ls05dk/nrf54ls05b/cpuapp
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54ls05dk/nrf54ls05b/cpuapp
     tags:
@@ -930,6 +965,7 @@ tests:
       EXTRA_CONF_FILE="overlays/client.conf;overlays/ecdsa_secp384r1.conf;overlays/oberon-psa.conf"
     platform_allow:
       - nrf54ls05dk/nrf54ls05b/cpuapp
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54ls05dk/nrf54ls05b/cpuapp
     tags:
@@ -944,6 +980,7 @@ tests:
       EXTRA_CONF_FILE="overlays/client.conf;overlays/ecdsa_secp384r1.conf;overlays/oberon-psa.conf;overlays/dtls.conf"
     platform_allow:
       - nrf54ls05dk/nrf54ls05b/cpuapp
+      - qemu_cortex_m3
     integration_platforms:
       - nrf54ls05dk/nrf54ls05b/cpuapp
     tags:
